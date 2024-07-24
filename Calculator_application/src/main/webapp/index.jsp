@@ -8,6 +8,9 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="user-servlet?action=list">user Servlet</a>
+<a href="hello-servlet">Hello Servlet</a> <br>
+<a href="calculator-servlet">Bài tập 2</a> <br>
+<a href="list-product">Bài tập 3</a> <br>
+<a href="add-product">Bài tập 4</a> <br>
 </body>
 </html>
